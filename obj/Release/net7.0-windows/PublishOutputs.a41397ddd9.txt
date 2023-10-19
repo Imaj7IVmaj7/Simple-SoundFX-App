@@ -1,0 +1,5 @@
+C:\Users\parfe\Documents\C# publish\Sound FX Player 0.1\Sound FX Player.exe
+C:\Users\parfe\Documents\C# publish\Sound FX Player 0.1\Sound FX Player.dll
+C:\Users\parfe\Documents\C# publish\Sound FX Player 0.1\Sound FX Player.deps.json
+C:\Users\parfe\Documents\C# publish\Sound FX Player 0.1\Sound FX Player.runtimeconfig.json
+C:\Users\parfe\Documents\C# publish\Sound FX Player 0.1\Sound FX Player.pdb

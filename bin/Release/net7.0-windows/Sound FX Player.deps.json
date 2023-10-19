@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sound FX Player/1.0.0": {
+        "runtime": {
+          "Sound FX Player.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sound FX Player/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

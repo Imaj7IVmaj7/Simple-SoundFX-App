@@ -1,0 +1,16 @@
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\bin\Debug\net7.0-windows\Sound FX Player.exe
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\bin\Debug\net7.0-windows\Sound FX Player.deps.json
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\bin\Debug\net7.0-windows\Sound FX Player.runtimeconfig.json
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\bin\Debug\net7.0-windows\Sound FX Player.dll
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\bin\Debug\net7.0-windows\Sound FX Player.pdb
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\Sound_FX_Player.Form1.resources
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\Sound FX Player.csproj.GenerateResource.cache
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\Sound FX Player.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\Sound FX Player.AssemblyInfoInputs.cache
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\Sound FX Player.AssemblyInfo.cs
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\Sound FX Player.csproj.CoreCompileInputs.cache
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\Sound FX Player.dll
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\refint\Sound FX Player.dll
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\Sound FX Player.pdb
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\Sound FX Player.genruntimeconfig.cache
+C:\Users\parfe\source\repos\sound fx player 061023\Sound FX Player\obj\Debug\net7.0-windows\ref\Sound FX Player.dll
