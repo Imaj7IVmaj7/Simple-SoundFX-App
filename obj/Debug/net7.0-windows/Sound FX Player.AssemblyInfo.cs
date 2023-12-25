@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sound FX Player")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0912ef064a54cf7ec7a8670fc571edfe223e85b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sound FX Player")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sound FX Player")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

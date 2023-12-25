@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "kTCdSlDo2n3C+WewCfjiw/MTUlHPxNjPFdiHjZY4exoaW7o7/RxEBChfcRp1tU5tT5mwG6boczXFmFVAqCQ6sg==",
+  "dgSpecHash": "d2XY/JvccVytDE1zULaFk4HP3/ZfqzYF/RYnHJmlNODk1kPc3mD1woisei878M3NB+uJLi0XElEGPWIi4NarEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\parfe\\source\\repos\\sound fx player 061023\\Sound FX Player\\Sound FX Player.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\pparv\\source\\repos\\Simple-SoundFX-App\\Simple-SoundFX-App\\Sound FX Player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pparv\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\pparv\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\pparv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\pparv\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
