@@ -24,6 +24,10 @@ namespace Sound_FX_Player
         SoundPlayer _soundPlayer2 = new SoundPlayer();
         SoundPlayer _soundPlayer3 = new SoundPlayer();
         SoundPlayer _soundPlayer4 = new SoundPlayer();
+        SoundPlayer _soundPlayer5 = new SoundPlayer();
+        SoundPlayer _soundPlayer6 = new SoundPlayer();
+        SoundPlayer _soundPlayer7 = new SoundPlayer();
+        SoundPlayer _soundPlayer8 = new SoundPlayer();
 
         public Form1()
         {
@@ -174,5 +178,135 @@ namespace Sound_FX_Player
         {
             _soundPlayer4.Stop();
         }
+
+
+        // 5th player-------------------------------------------------------
+        private void button13_Click(object sender, EventArgs e)
+        {
+            // open file... button
+            OpenFileDialog openFileDialog5 = new OpenFileDialog();
+            openFileDialog5.Filter = "WAV files (*.wav)|*.wav";
+            openFileDialog5.DefaultExt = ".wav";
+
+            // 11.10.23 yritys ratkoa filepathTextbox = null - erroria
+            filepathTextbox = new System.Windows.Forms.TextBox();
+
+            if (openFileDialog5.ShowDialog() == DialogResult.OK)
+            {
+                // Get the selected file's path from the dialog
+                this.filepathTextbox.Text = openFileDialog5.FileName;
+
+                //Assign the selected file's path to the SoundPlayer object
+                _soundPlayer5.SoundLocation = filepathTextbox.Text;
+            }
+        }
+
+        private void button14_Click(object sender, EventArgs e)
+        {
+            _soundPlayer5.Play();
+        }
+
+        private void button15_Click(object sender, EventArgs e)
+        {
+            _soundPlayer5.Stop();
+        }
+
+
+        // 6th player ---------------------------------------------------
+        private void button16_Click(object sender, EventArgs e)
+        {
+            // open file... button
+            OpenFileDialog openFileDialog6 = new OpenFileDialog();
+            openFileDialog6.Filter = "WAV files (*.wav)|*.wav";
+            openFileDialog6.DefaultExt = ".wav";
+
+            // 11.10.23 yritys ratkoa filepathTextbox = null - erroria
+            filepathTextbox = new System.Windows.Forms.TextBox();
+
+            if (openFileDialog6.ShowDialog() == DialogResult.OK)
+            {
+                // Get the selected file's path from the dialog
+                this.filepathTextbox.Text = openFileDialog6.FileName;
+
+                //Assign the selected file's path to the SoundPlayer object
+                _soundPlayer6.SoundLocation = filepathTextbox.Text;
+            }
+        }
+
+        private void button17_Click(object sender, EventArgs e)
+        {
+            _soundPlayer6.Play();
+        }
+
+        private void button18_Click(object sender, EventArgs e)
+        {
+            _soundPlayer6.Stop();
+        }
+
+        // 7th player --------------------------------------------------------
+        private void button19_Click(object sender, EventArgs e)
+        {
+            // open file... button
+            OpenFileDialog openFileDialog7 = new OpenFileDialog();
+            openFileDialog7.Filter = "WAV files (*.wav)|*.wav";
+            openFileDialog7.DefaultExt = ".wav";
+
+            // 11.10.23 yritys ratkoa filepathTextbox = null - erroria
+            filepathTextbox = new System.Windows.Forms.TextBox();
+
+            if (openFileDialog7.ShowDialog() == DialogResult.OK)
+            {
+                // Get the selected file's path from the dialog
+                this.filepathTextbox.Text = openFileDialog7.FileName;
+
+                //Assign the selected file's path to the SoundPlayer object
+                _soundPlayer7.SoundLocation = filepathTextbox.Text;
+            }
+        }
+
+        private void button20_Click(object sender, EventArgs e)
+        {
+            _soundPlayer7.Play();
+        }
+
+        private void button21_Click(object sender, EventArgs e)
+        {
+            _soundPlayer7.Stop();
+        }
+
+
+
+        // 8th player ----------------------------------------------------
+
+        private void button22_Click(object sender, EventArgs e)
+        {
+            // open file... button
+            OpenFileDialog openFileDialog8 = new OpenFileDialog();
+            openFileDialog8.Filter = "WAV files (*.wav)|*.wav";
+            openFileDialog8.DefaultExt = ".wav";
+
+            // 11.10.23 yritys ratkoa filepathTextbox = null - erroria
+            filepathTextbox = new System.Windows.Forms.TextBox();
+
+            if (openFileDialog8.ShowDialog() == DialogResult.OK)
+            {
+                // Get the selected file's path from the dialog
+                this.filepathTextbox.Text = openFileDialog8.FileName;
+
+                //Assign the selected file's path to the SoundPlayer object
+                _soundPlayer8.SoundLocation = filepathTextbox.Text;
+            }
+        }
+
+        private void button23_Click(object sender, EventArgs e)
+        {
+            _soundPlayer8.Play();
+        }
+        private void button24_Click(object sender, EventArgs e)
+        {
+            _soundPlayer8.Stop();
+        }
+
+        
     }
 }
